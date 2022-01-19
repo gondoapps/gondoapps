@@ -1,6 +1,6 @@
 {
-	"interAdType" : "admob",
-	"bannerAdType" : "admob",
+	"interAdType" : "applovin",
+	"bannerAdType" : "applovin",
 	
 	"admobInterstitialID" : "ca-app-pub-4646368597929380/4848160163",
 		
