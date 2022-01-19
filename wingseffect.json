@@ -1,0 +1,18 @@
+{
+	"interAdType" : "admob",
+	"bannerAdType" : "admob",
+	
+	"admobInterstitialID" : "ca-app-pub-4646368597929380/4848160163",
+		
+	"admobOpenApp" : "ca-app-pub-4646368597929380/5643954205",
+	
+	"admobBanner" : "ca-app-pub-4646368597929380/6544385219",
+	
+	"appodealAppKey" : "bb6da04432e310e36d67a8142ea3d056477b7b2bac61660a",
+	
+	"applovinBanner" : "4f06f9cbcc1e2c9a",
+	
+	"applovinInter" : "92ac0266a9914a1d"
+	
+
+}
