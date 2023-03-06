@@ -1,0 +1,1 @@
+{"gameName":"My Talking Tom","storeLink":"https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2","imageUrls":["https://i.imgur.com/hfWD2Gr.jpg"]}
